@@ -10,3 +10,7 @@ bradlc.vscode-tailwindcss
 https://flowbite.com/docs/components/navbar/
 
 ## tsrfc
+
+## Three.js
+npm i @react-three/fiber
+npm i @react-three/drei
